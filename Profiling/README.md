@@ -6,6 +6,8 @@ https://www.nuget.org/packages/EPPlus/
 ### Android
 ***
 ### Editor  
+#### Editor_Profiler.cs  
+
 ![editor00](https://user-images.githubusercontent.com/73415970/168468428-69fb36bf-6b6b-4594-a35f-0900aa291254.png)  
   
 shift 1 혹은 TA - open profiler에 들어간다.(이때 게임 실행 중이 아니면 인 게임중에만 사용이 가능하다는 팝업이 나온다.)
