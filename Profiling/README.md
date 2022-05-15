@@ -1,4 +1,8 @@
 ## 프로파일링을 위해 게임 플레이 중 Drawcall, Vertex, FPS등을 저장하고 엑셀로 뽑는 툴
+### 공통  
+엑셀 출력을 위해 epplus를 사용하였습니다.  
+https://www.nuget.org/packages/EPPlus/  
+***
 ### Android
 ***
 ### Editor  
